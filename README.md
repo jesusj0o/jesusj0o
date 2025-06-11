@@ -17,7 +17,8 @@ Soy **Front‑end Developer** apasionado por crear experiencias web interactivas
 ## 📬 Contáctame
 
 - ✉️ jesusjho26@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-jo-255721210/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-jo-255721210/)
+- 🖥️ [My portfolio](https://jesusjoportfolio.netlify.app/)
 
 ---
 
