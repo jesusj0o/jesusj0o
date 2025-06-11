@@ -3,19 +3,16 @@
 Soy **Front‑end Developer** apasionado por crear experiencias web interactivas y accesibles. Me especializo en React, Vite y CSS moderno, con enfoque en diseño limpio y buenas prácticas.
 
 ## 🛠️ Habilidades destacadas
-
 - **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Threejs  
 - **UI/UX**: Diseño responsive, animaciones, accesibilidad  
 - **Herramientas**: Git, Figma, APIs REST y Firebase  
 
 ## 💻 Proyectos destacados
-
 - 🩻👩🏼‍⚕️**Anatomy 3d Platform** – Plataforma interactiva con modelo 3D de la anatomia humana hecho con blender y usado con threejs en React, hecho para estudiantes de Medicina.
 - 🩻📚[Articulos](https://buymeacoffee.com/jesusjo/hora-de-un-poco-de-color)
 
 
 ## 📬 Contáctame
-
 - ✉️ jesusjho26@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-jo-255721210/)
 - 🖥️ [My portfolio](https://jesusjoportfolio.netlify.app/)
@@ -23,7 +20,6 @@ Soy **Front‑end Developer** apasionado por crear experiencias web interactivas
 ---
 
 ## 🧰 Tecnologías que domino
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
