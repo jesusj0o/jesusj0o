@@ -1,25 +1,24 @@
-# Hola 👋, soy **Jesús Jo**
+# Hi 👋, I'm **Jesús Jo**
 
-Soy **Front‑end Developer** apasionado por crear experiencias web interactivas y accesibles. Me especializo en React, Vite y CSS moderno, con enfoque en diseño limpio y buenas prácticas.
+I'm a **Front‑end Developer** passionate about creating interactive and accessible web experiences. I specialize in React, Vite, and modern CSS, with a focus on clean design and best practices.
 
-## 🛠️ Habilidades destacadas
+## 🛠️ Key Skills
 - **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Threejs  
-- **UI/UX**: Diseño responsive, animaciones, accesibilidad  
-- **Herramientas**: Git, Figma, APIs REST y Firebase  
+- **UI/UX**: Responsive design, animations, accessibility  
+- **Tools**: Git, Figma, REST APIs, and Firebase  
 
-## 💻 Proyectos destacados
-- 🩻👩🏼‍⚕️**Anatomy 3d Platform** – Plataforma interactiva con modelo 3D de la anatomia humana hecho con blender y usado con threejs en React, hecho para estudiantes de Medicina.
-- 🩻📚[Articulos](https://buymeacoffee.com/jesusjo/hora-de-un-poco-de-color)
+## 💻 Featured Projects
+- 🩻👩🏼‍⚕️**Anatomy 3D Platform** – Interactive platform with a 3D human anatomy model created in Blender and implemented using Three.js in React. Designed for medical students.
+- 🩻📚[Articles](https://buymeacoffee.com/jesusjo/hora-de-un-poco-de-color)
 
-
-## 📬 Contáctame
+## 📬 Contact Me
 - ✉️ jesusjho26@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-jo-255721210/)
 - 🖥️ [My portfolio](https://jesusjoportfolio.netlify.app/)
 
 ---
 
-## 🧰 Tecnologías que domino
+## 🧰 Technologies I Work With
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
@@ -31,4 +30,5 @@ Soy **Front‑end Developer** apasionado por crear experiencias web interactivas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" alt="Netlify"/>
 </p>
+
 
