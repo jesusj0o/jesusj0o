@@ -10,8 +10,8 @@ Soy **Front‑end Developer** apasionado por crear experiencias web interactivas
 
 ## 💻 Proyectos destacados
 
-- **Anatomy 3d Platform** – Plataforma interactiva con modelo 3D de la anatomia humana hecho con blender y usado con threejs en React, hecho para estudiantes de Medicina.
-- [Articulos](buymeacoffee.com/jesusjo/hora-de-un-poco-de-color)
+- 🩻👩🏼‍⚕️**Anatomy 3d Platform** – Plataforma interactiva con modelo 3D de la anatomia humana hecho con blender y usado con threejs en React, hecho para estudiantes de Medicina.
+- 🩻📚[Articulos](buymeacoffee.com/jesusjo/hora-de-un-poco-de-color)
 
 
 ## 📬 Contáctame
