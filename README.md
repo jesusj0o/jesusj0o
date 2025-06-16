@@ -5,8 +5,9 @@ I'm a **Front‑end Developer** passionate about creating interactive and access
 ## 🛠️ Key Skills
 - **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Threejs  
 - **UI/UX**: Responsive design, animations, accessibility
-- **Tools**: Git, Github, Figma, REST APIs, Netlify, GSAP, FramerMotion
+- **Tools**: Git, Github, Figma, REST APIs, Netlify, GSAP, FramerMotion, Jira, Trello, Notion, 
 - **Database**: Firebase, MongoDB, MySQL
+- **Agile**: Scrum, MVC
 
 ## 💻 Featured Projects
 - 🩻👩🏼‍⚕️**Anatomy 3D Platform** – Interactive platform with a 3D human anatomy model created in Blender and implemented using Three.js in React. Designed for medical students.
