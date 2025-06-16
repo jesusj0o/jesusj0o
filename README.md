@@ -3,7 +3,8 @@
 I'm a **Front‑end Developer** passionate about creating interactive and accessible web experiences. I specialize in React, Vite, and modern CSS, with a focus on clean design and best practices.
 
 ## 🛠️ Key Skills
-- **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Threejs  
+- **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Threejs
+- **Back-end**: Nodejs  
 - **UI/UX**: Responsive design, animations, accessibility
 - **Tools**: Git, Github, Figma, REST APIs, Netlify, GSAP, FramerMotion, Jira, Trello, Notion, 
 - **Database**: Firebase, MongoDB, MySQL
