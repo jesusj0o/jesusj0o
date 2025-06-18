@@ -1,6 +1,8 @@
-# Hello there! 🦑, A wild developer has appeared -> **Jesus Jo** Lv. mid-developer! you gotta catch'him now! 
+# 🦑 A wild developer has appeared -> **Jesus Jo** Lv. mid-developer! you gotta catch'him now! 
 
-I'm a **Front‑end Developer** passionate about creating interactive and accessible web experiences. I specialize in React, Vite, and modern CSS, with a focus on clean design and best practices.
+I'm a **JavaScript Developer** with high agility in crafting interactive and accessible web experiences.  
+My toolkit includes **React**, **modern CSS like Tailwind and Bootstrap** — always aiming for good design, performance‑boosted builds, and clean, maintainable code.  
+Whether it's refactoring legacy styles or building from scratch, I approach every project like it's my final boss battle.
 
 ## 🛠️ Key Skills
 - **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Threejs
