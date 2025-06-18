@@ -1,4 +1,4 @@
-# Hello there! 🦑, A wild developer has appeared **Jesus Jo**
+# Hello there! 🦑, A wild developer has appeared -> **Jesus Jo** Lv. mid-developer! you gotta catch'him now! 
 
 I'm a **Front‑end Developer** passionate about creating interactive and accessible web experiences. I specialize in React, Vite, and modern CSS, with a focus on clean design and best practices.
 
