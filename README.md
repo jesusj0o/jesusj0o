@@ -4,7 +4,8 @@ I'm a **Front‑end Developer** passionate about creating interactive and access
 
 ## 🛠️ Key Skills
 - **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Threejs
-- **Back-end**: Nodejs  
+- **Back-end**: Nodejs
+- **Testing**: Jest
 - **UI/UX**: Responsive design, animations, accessibility
 - **Tools**: Git, Github, Figma, REST APIs, Netlify, GSAP, FramerMotion, Jira, Trello, Notion, 
 - **Database**: Firebase, MongoDB, MySQL
@@ -28,6 +29,7 @@ I'm a **Front‑end Developer** passionate about creating interactive and access
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-original.svg" width="40" alt="Jest"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" alt="Three.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
