@@ -15,6 +15,7 @@ Whether it's refactoring legacy styles or building from scratch, I approach ever
 - **Project Management**: Jira, Trello, Notion
 - **Methodologies**: Agile (Scrum), MVC
 
+## 🖥️🚀 Featured projects 
 - 🩻👩🏼‍⚕️ **Anatomy 3D Platform** – Interactive platform with a 3D human anatomy model created in Blender and implemented using Three.js in React. Designed for medical students.  
   _Stack: React, Three.js, GSAP, Blender_, Nodejs
 
