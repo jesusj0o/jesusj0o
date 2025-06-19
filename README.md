@@ -1,4 +1,18 @@
-# 🦑 A wild developer has appeared -> **Jesus Jo** Lv. mid-developer! you gotta catch'him now! 
+# 🦑 A wild developer has appeared!
+
+<div style="display: flex; align-items: center; gap: 16px; background: #fefefe; border: 2px solid #333; border-radius: 12px; padding: 16px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); max-width: 500px; font-family: sans-serif;">
+
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="developer sprite" style="width: 80px; height: 80px;" />
+
+  <div>
+    <h3 style="margin: 0; font-size: 1.5rem;">Jesus Jo</h3>
+    <p style="margin: 4px 0 0 0; font-weight: bold;">Lv. Mid-Developer ⚡</p>
+    <p style="margin: 4px 0 0 0;">Type: JavaScript / React</p>
+  </div>
+</div>
+
+<p style="margin-top: 12px;"><em>You gotta catch 'him now!</em></p>
+
 
 I'm a **JavaScript Developer** with high agility in crafting interactive and accessible web experiences.  
 My toolkit includes **React**, **modern CSS like Tailwind and Bootstrap** — always aiming for good design, performance‑boosted builds, and clean, maintainable code.  
