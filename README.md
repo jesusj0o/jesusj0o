@@ -1,17 +1,39 @@
 # 🦑 A wild developer has appeared!
 
-<div style="display: flex; align-items: center; gap: 16px; background: #fefefe; border: 2px solid #333; border-radius: 12px; padding: 16px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); max-width: 500px; font-family: sans-serif;">
+<div style="max-width: 480px; border: 3px solid #444; border-radius: 16px; background: linear-gradient(to bottom, #fefefe, #e0e0e0); padding: 16px; font-family: sans-serif; box-shadow: 4px 4px 12px rgba(0,0,0,0.2);">
 
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="developer sprite" style="width: 80px; height: 80px;" />
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="developer sprite" style="width: 96px; height: 96px;" />
+    <div>
+      <h2 style="margin: 0; font-size: 1.5rem;">Jesus Jo</h2>
+      <p style="margin: 4px 0;"><strong>Lv. Mid-Developer</strong></p>
+      <p style="margin: 4px 0;">Type: ⚛️ JavaScript / React</p>
+    </div>
+  </div>
+
+  <hr style="margin: 16px 0; border: none; border-top: 1px solid #ccc;" />
 
   <div>
-    <h3 style="margin: 0; font-size: 1.5rem;">Jesus Jo</h3>
-    <p style="margin: 4px 0 0 0; font-weight: bold;">Lv. Mid-Developer ⚡</p>
-    <p style="margin: 4px 0 0 0;">Type: JavaScript / React</p>
+    <p style="margin: 4px 0;"><strong>Skills:</strong></p>
+    <ul style="margin: 0 0 12px 20px; padding: 0;">
+      <li>React & Tailwind CSS</li>
+      <li>Three.js 3D Scenes</li>
+      <li>Node.js & Express APIs</li>
+      <li>UI/UX Polish & Performance</li>
+    </ul>
+
+    <p style="margin: 4px 0;"><strong>Stats:</strong></p>
+    <ul style="margin: 0 0 0 20px; padding: 0;">
+      <li>⚡ Speed: 85</li>
+      <li>🧠 Intelligence: 90</li>
+      <li>🎨 Creativity: 95</li>
+      <li>💻 Code Power: 88</li>
+    </ul>
   </div>
+
+  <p style="margin-top: 16px; font-style: italic;">You gotta catch 'him now!</p>
 </div>
 
-<p style="margin-top: 12px;"><em>You gotta catch 'him now!</em></p>
 
 
 I'm a **JavaScript Developer** with high agility in crafting interactive and accessible web experiences.  
