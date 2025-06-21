@@ -15,7 +15,7 @@ Whether it's refactoring legacy styles or building from scratch, I approach ever
 ## 🛠️ Key Skills
 
 - **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Three.js, GSAP, Framer Motion, Bootstrap, TailwindCSS
-- **Back‑end**: Node.js, REST APIs
+- **Back‑end**: Node.js, REST APIs, Postman
 - **Testing**: Jest
 - **UI/UX**: Responsive design, accessibility, animations
 - **Databases**: Firebase, MongoDB, MySQL
