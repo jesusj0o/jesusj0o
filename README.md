@@ -55,7 +55,7 @@ Whether it's refactoring legacy styles or building from scratch, I approach ever
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
---
+---
 
 ## 🧰 Technologies I'm learning 
 <p align="left">
