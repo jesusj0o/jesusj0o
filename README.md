@@ -4,7 +4,7 @@
   <div>
     <h3 style="margin: 0; font-size: 1.5rem;">Jesus Jo</h3>
     <p style="margin: 4px 0 0 0; font-weight: bold;">Lv. Mid-Developer ⚡</p>
-    <p style="margin: 4px 0 0 0;">Type: JavaScript / React</p>
+    <p style="margin: 4px 0 0 0;">Type: JavaScript / TypeScript</p>
   </div>
 </div>
 
