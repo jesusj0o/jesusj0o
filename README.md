@@ -33,7 +33,7 @@ Whether it's refactoring legacy styles or building from scratch, I approach ever
 ## 📬 Contact Me
 - ✉️ jesusjho26@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-jo-255721210/)
-- 🖥️ [My portfolio](https://jesusjoportfolio.netlify.app/)
+- 🖥️ [My portfolio](https://jo-dev.netlify.app/)
 
 ---
 
