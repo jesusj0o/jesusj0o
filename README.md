@@ -23,6 +23,8 @@ Whether it's refactoring legacy styles or building from scratch, I approach ever
 - **Project Management**: Jira, Trello, Notion
 - **Methodologies**: Agile (Scrum), MVC
 
+---
+
 - 📚 [Articles](https://buymeacoffee.com/jesusjo/) – Writing about projects, things i'm learning and other stuff
 
 
