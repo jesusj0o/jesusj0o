@@ -16,7 +16,7 @@ Whether it's refactoring legacy styles or building from scratch, I approach ever
 
 - **Front‑end**: HTML5, CSS3, JavaScript (ES6+), React, Three.js, GSAP, Framer Motion, Bootstrap, TailwindCSS
 - **Back‑end**: Node.js, TypeScript, REST APIs, Postman
-- **Testing**: Jest
+- **Testing**: Jest, supertest
 - **UI/UX**: Responsive design, accessibility, animations
 - **Databases**: Firebase, MongoDB, MySQL
 - **Version Control & Deployment**: Git, GitHub, Netlify
