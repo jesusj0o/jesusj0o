@@ -23,15 +23,11 @@ Whether it's refactoring legacy styles or building from scratch, I approach ever
 - **Project Management**: Jira, Trello, Notion
 - **Methodologies**: Agile (Scrum), MVC
 
-## 🖥️🚀 Featured projects 
-- 🩻👩🏼‍⚕️ **Anatomy 3D Platform** – Interactive platform with a 3D human anatomy model created in Blender and implemented using Three.js in React. Designed for medical students.  
-  _Stack: React, Three.js, GSAP, Blender, Nodejs_
-
-- 📚 [Articles](https://buymeacoffee.com/jesusjo/hora-de-un-poco-de-color) – Writing on design decisions and UI experimentation for learning platforms.
+- 📚 [Articles](https://buymeacoffee.com/jesusjo/) – Writing about projects, things i'm learning and other stuff
 
 
 ## 📬 Contact Me
-- ✉️ jesusjho26@gmail.com  
+- ✉️ jesusjomuniz@gmail.com 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-jo-255721210/)
 - 🖥️ [My portfolio](https://jo-dev.netlify.app/)
 
