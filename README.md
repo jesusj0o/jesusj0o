@@ -8,7 +8,7 @@
   </div>
 </div>
 
-I'm a **JavaScript Developer** with high agility in crafting interactive and accessible web experiences.  
+I'm a **3+ YOE JavaScript Developer** with high agility in crafting interactive and accessible web experiences.  
 My toolkit includes **React**, **modern CSS like Tailwind and Bootstrap** — always aiming for good design, performance‑boosted builds, and clean, maintainable code.  
 Whether it's refactoring legacy styles or building from scratch, I approach every project like it's my final boss battle.
 
